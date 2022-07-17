@@ -1,1 +1,3 @@
 # taco-cloud
+
+# https://start.spring.io/starter.zip?name=taco-cloud&groupId=com.taco-cloud&artifactId=taco-cloud&version=0.0.1-SNAPSHOT&description=Demo++taco-cloud+project+for+Spring+Boot&packageName=com.+taco-cloud&type=maven-project&packaging=jar&javaVersion=17&language=java&bootVersion=2.7.1&dependencies=devtools&dependencies=mail&dependencies=websocket&dependencies=thymeleaf&dependencies=web-services&dependencies=web
